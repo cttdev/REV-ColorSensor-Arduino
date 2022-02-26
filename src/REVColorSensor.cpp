@@ -1,6 +1,6 @@
 /*
  * REVColorSensor - An Arduino Library to communicate with the REV Robotics Color Sensor.
- * Copyright (c) 2022 Claudius Tewari.  All right reserved.
+ * Copyright (c) 2022 Claudius Tewari.  All rights reserved.
  * 
  * Based on https://github.com/REVrobotics/Color-Sensor-v3/blob/main/src/main/java/com/revrobotics/ColorSensorV3.java  
  * Copyright (c) 2019 REV Robotics
